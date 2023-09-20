@@ -1,0 +1,16 @@
+name: "Ugo Izuegbunam"
+navbar:
+  title: "My Title"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Portfolio"
+      href: portfolio.html
+  right: 
+    - icon: fa-envelope fa-lg
+      href: mailto:<ugo7035@gmail.com>
+    - icon: fa-github fa-lg
+      href: http://github.com/ucj-izu/
+    - icon: fa-linkedin fa-lg
+      href: http://linkedin.com/in/ugo-izuegbunam
+      
